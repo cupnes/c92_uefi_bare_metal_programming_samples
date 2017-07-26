@@ -1,0 +1,10 @@
+*~
+*.EFI
+*.txt
+fs
+
+GPATH
+GRTAG
+GSYMS
+GTAGS
+GRTAGS
